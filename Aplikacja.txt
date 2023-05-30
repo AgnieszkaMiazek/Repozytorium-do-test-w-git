@@ -8,3 +8,11 @@
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
+   public void logowanieMicrosoft() {
+        System.out.println("Podaj email Microsoft");
+        System.out.println("Podaj hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
+   public void przypomnij hasło() {
+        System.out.println("Kliknij na przycisk przypomnij hasło");
+    }
